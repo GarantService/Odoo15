@@ -8,7 +8,7 @@
     'category': 'Extra Tools',
     'summary': """
         Odoo School
-        Lesson 3-7: Wizards. Temporary models. 
+        Lesson 3-7: Wizards. Temporary models. And their implementations. 
     """,
     'license': 'LGPL-3',
     'author': 'Garazd Creation',
